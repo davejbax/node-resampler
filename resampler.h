@@ -5,6 +5,7 @@
 #include <node.h>
 #include <node_buffer.h>
 #include <libresample.h>
+#include <v8.h>
 #include "macros.h"
 
 #define RS_SAMPLE_BYTES 4
