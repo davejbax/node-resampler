@@ -14,6 +14,7 @@
 #define RS_BUFFER_PAD 1024
 
 using namespace v8;
+using namespace v8::internal;
 using namespace node;
 
 namespace resampler {
