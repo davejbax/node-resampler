@@ -1,6 +1,7 @@
 #ifndef RESAMPLER_H
 #define RESAMPLER_H
 
+#include <nan.h>
 #include <node.h>
 #include <node_buffer.h>
 #include <libresample.h>
